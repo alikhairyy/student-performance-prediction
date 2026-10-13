@@ -1,0 +1,6 @@
+node_modules/
+.env
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+dist/
